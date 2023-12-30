@@ -15,8 +15,6 @@
     cursor: pointer;
 }
 .col-12{
-    width: auto;
-    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
